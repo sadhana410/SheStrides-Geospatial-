@@ -1,3 +1,11 @@
+READ ME
+
+1. Set up the required API Keys for Maps SDK API and ARCore API. Add it under metadata.
+
+2. Switch on device location for app to run
+
+3. App runs on devices with Android 8.1 and above with camera feature
+
 # ARCore Geospatial Codelab project
 
 This repository contains the template used for the [ARCore Geospatial API Codelab](https://developers.google.com/ar/develop/geospatial/java/codelab#0).
